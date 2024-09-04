@@ -8,6 +8,14 @@ Click this url and connect with Tonkepper:
 https://open-dev-top.github.io/my-twa/
 ```
 
+## Telegram Web Apps
+
+Search this bot and click start:
+
+```
+@my_240904_twa_bot
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
